@@ -1,0 +1,6 @@
+{
+  "name": "MI CANARIAS",
+  "description": "Plataforma web y móvil del archipiélago canario para residentes y turistas en español, árabe, inglés y francés.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
